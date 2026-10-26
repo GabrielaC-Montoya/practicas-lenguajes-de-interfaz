@@ -1,11 +1,11 @@
-Portafolio de Prácticas - Lenguajes de Interfaz
+*Portafolio de Prácticas - Lenguajes de Interfaz
 
-Datos Generales
-Materia: Lenguajes de Interfaz
-Unidad: Prácticas de Laboratorio
-Alumno: Gabriela Concepcion Montoya Roman
-Horario: 9:00-10:00 AM
-Docente: Dr. José Luis Medina Jiménez
+   *Datos Generales
+*Materia: Lenguajes de Interfaz
+*Unidad: Prácticas de Laboratorio
+*Alumno: Gabriela Concepcion Montoya Roman
+*Horario: 9:00-10:00 AM
+*Docente: Dr. José Luis Medina Jiménez
 
 ## Índice de Prácticas
 
